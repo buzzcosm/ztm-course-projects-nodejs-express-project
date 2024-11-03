@@ -12,6 +12,14 @@
 
 TODO: TBD
 
+### HandleBars Templating in ExpressJS
+
+Install package
+
+```shell
+npm i hbs --save
+```
+
 ## Process
 
 TODO: TBD
@@ -33,3 +41,4 @@ TODO: TBD
   - [Wikipedia - Roy Fielding](https://en.wikipedia.org/wiki/Roy_Fielding)
   - [Learn REST API Design](https://www.restapitutorial.com/)
 - [Wikipedia - Content Delivery Network (CDN)](https://en.wikipedia.org/wiki/Content_delivery_network)
+- [NPM - Handlebars.js](https://www.npmjs.com/package/handlebars)
