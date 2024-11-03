@@ -3,7 +3,6 @@ const path = require('path');
 
 const friendsRouter = require('./routes/friends.router');
 const messagesRouter = require('./routes/messages.router');
-const { title } = require('process');
 
 const app = express();
 
