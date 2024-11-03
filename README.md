@@ -10,7 +10,7 @@
 
 ## Description
 
-<!-- TODO: TBD -->
+Exercises for Express server.
 
 ### HandleBars Templating in ExpressJS
 
@@ -22,7 +22,39 @@ npm i hbs --save
 
 ## Process
 
-TODO: TBD
+Install npm packages ⬇
+
+```shell
+npm install
+```
+
+Run node application 🏎️💨
+
+```shell
+npm start
+```
+
+```shell
+npm run watch
+```
+
+Clean packages 🧹🪣
+
+```shell
+npm run clean
+```
+
+Check vulnerabilities 🤔
+
+```shell
+npm audit
+```
+
+Fix vulnerabilities if needed ✅
+
+```shell
+npm audit fix
+```
 
 ## Useful references
 
