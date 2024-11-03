@@ -10,7 +10,7 @@
 
 ## Description
 
-TODO: TBD
+<!-- TODO: TBD -->
 
 ### HandleBars Templating in ExpressJS
 
