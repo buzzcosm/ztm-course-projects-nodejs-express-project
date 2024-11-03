@@ -27,5 +27,7 @@ TODO: TBD
   - [Wikipedia - Model–view–controller (MVC)](https://en.wikipedia.org/wiki/Model%E2%80%93view%E2%80%93controller)
   - [Wikipedia - Model–view–presenter (MVP)](https://en.wikipedia.org/wiki/Model_View_Presenter)
   - [Wikipedia - Model–view–viewmodel (MVVM)](https://en.wikipedia.org/wiki/Model%E2%80%93view%E2%80%93viewmodel)
+- RESTful API
+  - [Wikipedia - REST](https://en.wikipedia.org/wiki/REST)
   - [CHAPTER 5 - Representational State Transfer (REST)](https://ics.uci.edu/~fielding/pubs/dissertation/rest_arch_style.htm)
   - [Wikipedia - Roy Fielding](https://en.wikipedia.org/wiki/Roy_Fielding)
