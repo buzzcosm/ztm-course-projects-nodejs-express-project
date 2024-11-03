@@ -18,4 +18,5 @@ TODO: TBD
 
 ## Useful references
 
-- []()
+- [koa](https://koajs.com/)
+- [Next.js](https://nextjs.org/)
