@@ -31,3 +31,4 @@ TODO: TBD
   - [Wikipedia - REST](https://en.wikipedia.org/wiki/REST)
   - [CHAPTER 5 - Representational State Transfer (REST)](https://ics.uci.edu/~fielding/pubs/dissertation/rest_arch_style.htm)
   - [Wikipedia - Roy Fielding](https://en.wikipedia.org/wiki/Roy_Fielding)
+  - [Learn REST API Design](https://www.restapitutorial.com/)
